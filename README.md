@@ -1,5 +1,6 @@
-#Tic Tac Toe using Python
-##unmaintained
+# Tic Tac Toe using Python
+
+## Unmaintained (2020)
 
 Freelance Project way back 2018
 
